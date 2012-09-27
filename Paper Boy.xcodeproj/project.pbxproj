@@ -39,18 +39,18 @@
 		840978D51614972F009D4E0D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		840978D71614972F009D4E0D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		840978D91614972F009D4E0D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		840978DD1614972F009D4E0D /* Paper Boy-Info.plist */ = {isa = PBXFileReference; path = "Paper Boy-Info.plist"; sourceTree = "<group>"; };
+		840978DD1614972F009D4E0D /* Paper Boy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Paper Boy-Info.plist"; sourceTree = "<group>"; };
 		840978DF1614972F009D4E0D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		840978E11614972F009D4E0D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		840978E31614972F009D4E0D /* Paper Boy-Prefix.pch */ = {isa = PBXFileReference; path = "Paper Boy-Prefix.pch"; sourceTree = "<group>"; };
-		840978E41614972F009D4E0D /* PaperBoyAppDelegate.h */ = {isa = PBXFileReference; path = PaperBoyAppDelegate.h; sourceTree = "<group>"; };
+		840978E31614972F009D4E0D /* Paper Boy-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Paper Boy-Prefix.pch"; sourceTree = "<group>"; };
+		840978E41614972F009D4E0D /* PaperBoyAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PaperBoyAppDelegate.h; sourceTree = "<group>"; };
 		840978E51614972F009D4E0D /* PaperBoyAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PaperBoyAppDelegate.m; sourceTree = "<group>"; };
 		840978E81614972F009D4E0D /* Paper_Boy.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Paper_Boy.xcdatamodel; sourceTree = "<group>"; };
 		840978EF1614972F009D4E0D /* Paper BoyTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Paper BoyTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		840978F01614972F009D4E0D /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		840978F91614972F009D4E0D /* Paper BoyTests-Info.plist */ = {isa = PBXFileReference; path = "Paper BoyTests-Info.plist"; sourceTree = "<group>"; };
+		840978F91614972F009D4E0D /* Paper BoyTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Paper BoyTests-Info.plist"; sourceTree = "<group>"; };
 		840978FB1614972F009D4E0D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		840978FD1614972F009D4E0D /* Paper_BoyTests.h */ = {isa = PBXFileReference; path = Paper_BoyTests.h; sourceTree = "<group>"; };
+		840978FD1614972F009D4E0D /* Paper_BoyTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Paper_BoyTests.h; sourceTree = "<group>"; };
 		840978FE1614972F009D4E0D /* Paper_BoyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Paper_BoyTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
